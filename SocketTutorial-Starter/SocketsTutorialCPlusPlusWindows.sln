@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketClientWindows", "SocketClient\SocketClientWindows.vcxproj", "{80B3760B-7EC1-47BE-B1E5-C23685D9F109}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketServerWindows", "SocketServer\SocketServerWindows.vcxproj", "{E2080EAE-9C2F-4DEF-AAE6-865441847792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B3760B-7EC1-47BE-B1E5-C23685D9F109}.Debug|x64.ActiveCfg = Debug|x64
+		{80B3760B-7EC1-47BE-B1E5-C23685D9F109}.Debug|x64.Build.0 = Debug|x64
+		{80B3760B-7EC1-47BE-B1E5-C23685D9F109}.Release|x64.ActiveCfg = Release|x64
+		{80B3760B-7EC1-47BE-B1E5-C23685D9F109}.Release|x64.Build.0 = Release|x64
+		{E2080EAE-9C2F-4DEF-AAE6-865441847792}.Debug|x64.ActiveCfg = Debug|x64
+		{E2080EAE-9C2F-4DEF-AAE6-865441847792}.Debug|x64.Build.0 = Debug|x64
+		{E2080EAE-9C2F-4DEF-AAE6-865441847792}.Release|x64.ActiveCfg = Release|x64
+		{E2080EAE-9C2F-4DEF-AAE6-865441847792}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBFF660B-87B8-4DE6-A9A1-5BCC61AC4665}
+	EndGlobalSection
+EndGlobal

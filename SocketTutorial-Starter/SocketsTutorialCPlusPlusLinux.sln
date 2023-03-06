@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketClientLinux", "SocketClient\SocketClientLinux.vcxproj", "{64A2BCF5-1C12-41CD-974E-830B69A2158E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketServerLinux", "SocketServer\SocketServerLinux.vcxproj", "{AE14E0AC-3132-4533-A9CC-EE6E436C070F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A2BCF5-1C12-41CD-974E-830B69A2158E}.Debug|x64.ActiveCfg = Debug|x64
+		{64A2BCF5-1C12-41CD-974E-830B69A2158E}.Debug|x64.Build.0 = Debug|x64
+		{64A2BCF5-1C12-41CD-974E-830B69A2158E}.Debug|x64.Deploy.0 = Debug|x64
+		{64A2BCF5-1C12-41CD-974E-830B69A2158E}.Release|x64.ActiveCfg = Release|x64
+		{64A2BCF5-1C12-41CD-974E-830B69A2158E}.Release|x64.Build.0 = Release|x64
+		{64A2BCF5-1C12-41CD-974E-830B69A2158E}.Release|x64.Deploy.0 = Release|x64
+		{AE14E0AC-3132-4533-A9CC-EE6E436C070F}.Debug|x64.ActiveCfg = Debug|x64
+		{AE14E0AC-3132-4533-A9CC-EE6E436C070F}.Debug|x64.Build.0 = Debug|x64
+		{AE14E0AC-3132-4533-A9CC-EE6E436C070F}.Debug|x64.Deploy.0 = Debug|x64
+		{AE14E0AC-3132-4533-A9CC-EE6E436C070F}.Release|x64.ActiveCfg = Release|x64
+		{AE14E0AC-3132-4533-A9CC-EE6E436C070F}.Release|x64.Build.0 = Release|x64
+		{AE14E0AC-3132-4533-A9CC-EE6E436C070F}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A51409-DCF5-49E2-94B3-C94C95979F50}
+	EndGlobalSection
+EndGlobal
